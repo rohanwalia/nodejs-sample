@@ -29,12 +29,12 @@
     "express": "^4.13.3",
     "express-session": "^1.15.6",
     "express-validator": "^4.2.1",
-    "knex": "^0.13.0",
+    "knex": "^0.14.3",
     "morgan": "^1.8.0",
     "multer": "^1.3.1",
     "multer-s3": "^2.7.0",
     "mysql2": "^1.5.1",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
